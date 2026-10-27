@@ -37,7 +37,10 @@ Na conta Google do Rodolfo, em forms.google.com → **Formulário em branco**:
    `chapa1-sindct` → Name: `chapa1-sindct` → Build Command: em branco → Publish Directory: `.` →
    **Create Static Site**. O endereço fica `https://chapa1-sindct.onrender.com` (se o nome estiver
    livre; senão o Render sugere outro). Site estático no Render é gratuito.
-3. Cada `git push` no repositório atualiza o site sozinho.
+3. O site foi ligado pelo endereço público do repositório, então **não atualiza sozinho**: depois de
+   cada `git push`, no Render abra `chapa1-sindct` → **Manual Deploy** → **Deploy latest commit**.
+4. Fotos dos integrantes (27/10/2026): recortadas das originais em `Meu Drive\Sindicatootos`
+   (a da Silvia continua a antiga). Ficam embutidas no `index.html`.
 
 ## 3. QR Code da carta
 
