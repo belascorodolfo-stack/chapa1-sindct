@@ -1,5 +1,9 @@
 # Site da Chapa 1 · como publicar e onde ficam as sugestões
 
+**No ar:** https://chapa1-sindct.onrender.com (Render, plano gratuito, publicado em 26/10/2026).
+Planilha das sugestões: "Sugestões Chapa 1 - SindCT 2026 (respostas)" no Google Drive do Rodolfo.
+Carta com o QR novo: `Downloads\Chapa1_carta_FRENTE_E_VERSO_QR_novo.pdf`.
+
 Página: `index.html` (programa da Chapa 1, Eleições SindCT 2026, com sugestão por eixo, anônima ou
 identificada). Site separado do CAESPRO Gestão. As sugestões vão para uma planilha Google do Rodolfo.
 
